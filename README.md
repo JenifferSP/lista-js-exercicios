@@ -2,6 +2,16 @@
 
 Este repositório contém uma lista de exercícios básicos de JavaScript para praticar estruturas de controle, loops, funções e lógica de programação.
 
+# como configurar e executar os exercícios localmente
+
+1. Instalar o Node.js na sua máquina (para executar os arquivos JavaScript no terminal).
+
+2. Ter um editor de texto (recomendo o Visual Studio Code).
+
+3. executar os comandos npm init -y e npm install prompt-sync
+
+4. F5 para executar
+
 ---
 
 ## Exercícios
